@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Sojourner")(type "KiCad")(uri "${KIPRJMOD}/sojourner_logo.kicad_mod")(options "")(descr ""))
+  (lib (name "sojourner_logo")(type "KiCad")(uri "${KIPRJMOD}/sojourner_logo.pretty")(options "")(descr ""))
+)

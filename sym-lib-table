@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sojourner")(type "Legacy")(uri "${KIPRJMOD}/sojourner_logo.lib")(options "")(descr ""))
+)
